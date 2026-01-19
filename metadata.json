@@ -1,0 +1,7 @@
+{
+  "name": "이별지도 (Breakup Map)",
+  "description": "A healing map where users leave anonymous stories at meaningful locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
